@@ -45,7 +45,7 @@ I turn caffeine into clean code and complex problems into elegant solutions. Wit
 
 ## **📬 Let's Connect** [![Chat Bubble](https://img.shields.io/badge/-Say%20Hello!-1DA1F2)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=react&logoColor=white)](https://jaxellis.github.io/)   
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/jaxellis)   
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jaxellis)   
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jax-dev/)   
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/jaxellisdev)   
 
 ---
